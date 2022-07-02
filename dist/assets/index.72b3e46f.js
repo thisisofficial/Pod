@@ -213,7 +213,7 @@ background: url(${e=>e.Dots});
     height: auto;
     width:18%;
     opacity: 60%;
-`;var N0="/pod/assets/image-host.8f4f15c6.jpg",$0="/pod/assets/image-host.324895aa.jpg",T0="/pod/assets/google-podcasts.9da7bcb9.svg",R0="/pod/assets/spotify.1af676b4.svg",A0="/pod/assets/pocket-casts.a33a2a53.svg",L0="/pod/assets/apple-podcast.2c289668.svg",O0="/pod/assets/bg-pattern-dots.6a631526.svg",I0="/pod/assets/logo.331d30c1.svg",as={exports:{}},To={};/**
+`;var N0="/Pod/assets/image-host.8f4f15c6.jpg",$0="/Pod/assets/image-host.324895aa.jpg",T0="/Pod/assets/google-podcasts.9da7bcb9.svg",R0="/Pod/assets/spotify.1af676b4.svg",A0="/Pod/assets/pocket-casts.a33a2a53.svg",L0="/Pod/assets/apple-podcast.2c289668.svg",O0="/Pod/assets/bg-pattern-dots.6a631526.svg",I0="/Pod/assets/logo.331d30c1.svg",as={exports:{}},To={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *
